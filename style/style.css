@@ -1,0 +1,13 @@
+.center {
+    text-align: center;
+}
+
+#entryinput {
+    width: 100%;
+}
+
+#entrybutton {
+    width: 300px;
+    color: red;
+    text-align: center; 
+}
