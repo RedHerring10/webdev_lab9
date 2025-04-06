@@ -2,12 +2,19 @@
     text-align: center;
 }
 
+#container {
+    width: 400px
+  }
+
 #entryinput {
     width: 100%;
 }
 
 #entrybutton {
     width: 300px;
-    color: red;
+    color: white;
+    background-color: red;
     text-align: center; 
+    font-size: 30px;
+    font-weight: bold;
 }
